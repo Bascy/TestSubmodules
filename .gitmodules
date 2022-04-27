@@ -2,3 +2,6 @@
 [submodule "lib/lib1"]
 	path = lib/lib1
 	url = https://github.com/bascy/lib1
+[submodule "lib/lib2"]
+	path = lib/lib2
+	url = https://github.com/bascy/lib2
