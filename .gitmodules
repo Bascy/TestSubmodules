@@ -1,1 +1,4 @@
 
+[submodule "lib/lib1"]
+	path = lib/lib1
+	url = https://github.com/bascy/lib1
