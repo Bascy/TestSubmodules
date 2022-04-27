@@ -1,0 +1,6 @@
+[submodule "lib/NukiBleEsp32"]
+	path = lib/NukiBleEsp32
+	url = https://github.com/I-Connect/NukiBleEsp32
+[submodule "lib/Crc16"]
+	path = lib/Crc16
+	url = https://github.com/vinmenn/Crc16.git
