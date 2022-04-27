@@ -1,5 +1,4 @@
 #include <Arduino.h>
-#include "NukiBle.h"
 
 
 void setup() {
